@@ -24,8 +24,8 @@
 |---------------------|------------------|
 | [Вступ, робота з Markdowni](/init/README.md)                        | :heavy_check_mark: |
 | [Лабораторна робота 1, Оформлення робіт](/laba1/REDME.md)       | :heavy_check_mark: |
-| [Лабораторна робота 2, Основи Python]()          | :heavy_check_mark: |
-| [Лабораторна робота 3, Основи ООП]()            | :heavy_check_mark: |
+| [Лабораторна робота 2, Основи Python](/laba2/README.md)          | :heavy_check_mark: |
+| [Лабораторна робота 3, Основи ООП](/laba3/README.md)            | :heavy_check_mark: |
 | [Лабораторна робота 4, Віртуальні середовища](/laba4/README.md)   | :heavy_check_mark: |
 | Лабораторна робота 5  | :heavy_check_mark: |
 
